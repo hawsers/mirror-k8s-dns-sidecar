@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/k8s-dns-sidecar:latest
+FROM k8s.gcr.io/k8s-dns-sidecar:1.14.12
